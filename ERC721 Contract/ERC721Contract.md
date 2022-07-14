@@ -10,8 +10,6 @@ Steps to run it on remix:
 
 Environment:Injected Web3
 
-network: poygon or mumbai testnet or any chain that you want to deploy to.
-
 
 ========IMPORTANT===========
 in deploy: give the mint price(in wei) and the max supply of tokens.
