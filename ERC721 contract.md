@@ -3,4 +3,4 @@ you are free to name the token name and symbol.
 - test the code
 - mention comments of important functions 
 - craeta a md file with the steps to run the file and show us the executiion of the code with a example from your end.
-- this contract has a bounty of INR 1000 and has a deadline till the end of the week. 
+- this contract has a bounty of INR 2000 and has a deadline till the end of the week. 
